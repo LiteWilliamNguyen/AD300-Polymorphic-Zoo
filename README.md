@@ -1,2 +1,1 @@
-# AD300 Polymorphic-Zoo
- 
+To begin this project, open the ZooDemo class and create a new animal (Elephant, Lion, or Monkey), assigning it a name. Next, add the animal to the zoo ArrayList and run the program. The program will display the animal's name along with the sound it makes.
